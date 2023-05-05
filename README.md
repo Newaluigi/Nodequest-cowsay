@@ -1,6 +1,12 @@
 # Nodequest - Cow Say!
 WCS EXERCISE [Exercice Node débutant - Cow Say!] 
 
+## Result
+
+![](/screen.jpg)
+
+## Instructions
+
 💪 Défi
 
 Dans ce défi, tu devras installer un paquet appelé CowSay.
